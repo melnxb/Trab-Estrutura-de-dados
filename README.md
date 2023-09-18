@@ -1,8 +1,9 @@
 # Trab-Estrutura-de-dados
+
 Melyça Neres B. Colaço
 Ciência da computação - turma A, 4º p
-Atividade avaliativa
-##Link video (YouTube) : https://youtu.be/wFctz45caqM
+
+##Link video (YouTube): https://youtu.be/wFctz45caqM
 
 Essa atividade foi realizada para a disciplina de estrutura de dados e é uma aplicação Java para a ordenação de elementos em três pilhas. A ideia do programa é oferecer duas opções principais, sendo elas: a movimentação, realizada pelo próprio usuário ou a solução automática.
 
